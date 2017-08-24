@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml
@@ -14,15 +14,21 @@ ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/
 		INJECTED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml
 		INJECTED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:5:5-23:19
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support:appcompat-v7:25.1.0] /home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/manvi/.android/build-cache/9bcbe6fa2a6f5d6dd583a32d47d84eb6822ec087/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/manvi/.android/build-cache/c8a3a6dfe41ffccd6b5b242615aea3c9a29d61e6/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/manvi/.android/build-cache/a79ddf48468c0dc48aa2b441a6febdc5b2e12b8a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/manvi/.android/build-cache/976b30e8f19a9d4d72553b87154b03d58038dc1d/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/manvi/.android/build-cache/d34cf510c1a1927541b149e95754b83adc8792d7/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/manvi/.android/build-cache/b1287733768aad17f0a1e329d8d8f9c5249c9e57/output/AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:25.1.0] /home/manvi/.android/build-cache/c1dd83b4df4fefb052099517aabbd7b17a3f0ed3/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.1.0] /home/manvi/.android/build-cache/eb9f9cf17f9ea545a1cafcbd6f3ab4bb944f20ff/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:25.1.0] /home/manvi/.android/build-cache/6f10484771a0dc241166c5bd2808cff6a24891ef/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/manvi/.android/build-cache/ccdb31198cfb96329926a27cf9235c2ae7da63f7/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/manvi/.android/build-cache/9bcbe6fa2a6f5d6dd583a32d47d84eb6822ec087/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/manvi/.android/build-cache/c8a3a6dfe41ffccd6b5b242615aea3c9a29d61e6/output/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-core-ui:25.1.0] /home/manvi/.android/build-cache/5617a511d41703b23590545c09c1b5bfe557759b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/manvi/.android/build-cache/ccdb31198cfb96329926a27cf9235c2ae7da63f7/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.1.0] /home/manvi/.android/build-cache/def56b3a52533eed67559732efe7e003ca09819d/output/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:8:9-41
@@ -34,39 +40,60 @@ MERGED from [com.android.support:support-compat:25.1.0] /home/manvi/.android/bui
 		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:10:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:12:9-14:46
+	android:value
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:14:13-44
+	android:name
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:13:13-58
 activity#com.example.android.shushme.MainActivity
-ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:11:9-16:20
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:16:9-21:20
 	android:name
-		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:11:19-74
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:16:19-74
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:12:13-15:29
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:14:17-77
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:14:27-74
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:19:27-74
 provider#com.example.android.shushme.provider.PlaceContentProvider
-ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:18:9-21:39
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:23:9-26:39
 	android:authorities
-		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:20:13-62
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:25:13-62
 	android:exported
-		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:21:13-37
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:19:13-85
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:24:13-85
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:31:5-78
+	android:name
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:31:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:33:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml:33:22-64
 uses-sdk
 INJECTED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.1.0] /home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.0] /home/manvi/.android/build-cache/c1dd83b4df4fefb052099517aabbd7b17a3f0ed3/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] /home/manvi/.android/build-cache/eb9f9cf17f9ea545a1cafcbd6f3ab4bb944f20ff/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/manvi/.android/build-cache/6f10484771a0dc241166c5bd2808cff6a24891ef/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/manvi/.android/build-cache/ccdb31198cfb96329926a27cf9235c2ae7da63f7/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/manvi/.android/build-cache/9bcbe6fa2a6f5d6dd583a32d47d84eb6822ec087/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/manvi/.android/build-cache/c8a3a6dfe41ffccd6b5b242615aea3c9a29d61e6/output/AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:recyclerview-v7:25.0.1] /home/manvi/.android/build-cache/f78c2aa8571e406cfc4588d1782e9992ac088851/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/manvi/.android/build-cache/a79ddf48468c0dc48aa2b441a6febdc5b2e12b8a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/manvi/.android/build-cache/976b30e8f19a9d4d72553b87154b03d58038dc1d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/manvi/.android/build-cache/d34cf510c1a1927541b149e95754b83adc8792d7/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/manvi/.android/build-cache/b1287733768aad17f0a1e329d8d8f9c5249c9e57/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /home/manvi/.android/build-cache/c1dd83b4df4fefb052099517aabbd7b17a3f0ed3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/manvi/.android/build-cache/eb9f9cf17f9ea545a1cafcbd6f3ab4bb944f20ff/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/manvi/.android/build-cache/6f10484771a0dc241166c5bd2808cff6a24891ef/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.1.0] /home/manvi/.android/build-cache/5617a511d41703b23590545c09c1b5bfe557759b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/manvi/.android/build-cache/ccdb31198cfb96329926a27cf9235c2ae7da63f7/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.1.0] /home/manvi/.android/build-cache/def56b3a52533eed67559732efe7e003ca09819d/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/AndroidManifest.xml:23:9-75
@@ -76,3 +103,27 @@ MERGED from [com.android.support:support-compat:25.1.0] /home/manvi/.android/bui
 	android:minSdkVersion
 		INJECTED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml
 		INJECTED from /home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/manvi/.android/build-cache/b1287733768aad17f0a1e329d8d8f9c5249c9e57/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/manvi/.android/build-cache/b1287733768aad17f0a1e329d8d8f9c5249c9e57/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/manvi/.android/build-cache/b1287733768aad17f0a1e329d8d8f9c5249c9e57/output/AndroidManifest.xml:20:20-65

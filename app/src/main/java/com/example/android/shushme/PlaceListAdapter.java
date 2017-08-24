@@ -86,6 +86,5 @@ public class PlaceListAdapter extends RecyclerView.Adapter<PlaceListAdapter.Plac
             nameTextView = (TextView) itemView.findViewById(R.id.name_text_view);
             addressTextView = (TextView) itemView.findViewById(R.id.address_text_view);
         }
-
     }
 }
