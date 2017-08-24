@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

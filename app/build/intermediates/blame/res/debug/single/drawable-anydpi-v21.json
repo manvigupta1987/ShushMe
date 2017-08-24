@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_notifications_active_primary_24dp.xml",
+        "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications_active_primary_24dp.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_gps_fixed_white_24dp.xml",
+        "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_gps_fixed_white_24dp.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_volume_off_white_24dp.xml",
+        "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_volume_off_white_24dp.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_place_accent_24dp.xml",
+        "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_place_accent_24dp.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_my_location_primary_24dp.xml",
+        "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_my_location_primary_24dp.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_globe_primary_24dp.xml",
+        "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_globe_primary_24dp.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_volume_up_white_24dp.xml",
+        "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_volume_up_white_24dp.xml"
+    }
+]
