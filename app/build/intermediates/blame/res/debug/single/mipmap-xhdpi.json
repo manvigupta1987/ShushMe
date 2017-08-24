@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/manvi/gitRepos/ShushMe/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_fade_in.xml"
     },
@@ -20,6 +28,22 @@
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_slide_in_top.xml"
     },
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_popup_exit.xml"
     },
@@ -32,8 +56,24 @@
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_popup_exit.xml"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",

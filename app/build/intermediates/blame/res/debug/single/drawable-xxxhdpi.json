@@ -8,16 +8,32 @@
         "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_my_location_primary_24dp.png"
     },
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_place_accent_24dp.png",
+        "source": "/home/manvi/gitRepos/ShushMe/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_place_accent_24dp.png"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_globe_primary_24dp.png",
         "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_globe_primary_24dp.png"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_my_location_primary_24dp.png",
+        "source": "/home/manvi/gitRepos/ShushMe/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_my_location_primary_24dp.png"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_gps_fixed_white_24dp.png",
         "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_gps_fixed_white_24dp.png"
     },
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_gps_fixed_white_24dp.png",
+        "source": "/home/manvi/gitRepos/ShushMe/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_gps_fixed_white_24dp.png"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_place_accent_24dp.png",
         "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_place_accent_24dp.png"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_globe_primary_24dp.png",
+        "source": "/home/manvi/gitRepos/ShushMe/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_globe_primary_24dp.png"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_notifications_active_primary_24dp.png",
@@ -26,5 +42,17 @@
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_volume_off_white_24dp.png",
         "source": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_volume_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_volume_up_white_24dp.png",
+        "source": "/home/manvi/gitRepos/ShushMe/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_volume_up_white_24dp.png"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_notifications_active_primary_24dp.png",
+        "source": "/home/manvi/gitRepos/ShushMe/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_notifications_active_primary_24dp.png"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_volume_off_white_24dp.png",
+        "source": "/home/manvi/gitRepos/ShushMe/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_volume_off_white_24dp.png"
     }
 ]

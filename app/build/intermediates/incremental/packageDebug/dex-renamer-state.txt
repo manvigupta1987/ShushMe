@@ -1,4 +1,4 @@
-#Thu Aug 24 14:22:47 EDT 2017
-base.0=/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Aug 24 15:13:06 EDT 2017
+base.0=/home/manvi/gitRepos/ShushMe/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/manvi/gitRepos/ShushMe/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

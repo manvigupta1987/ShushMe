@@ -1,23 +1,39 @@
 [
     {
-        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/res/color/common_google_signin_btn_tint.xml"
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
@@ -28,24 +44,36 @@
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_default.xml"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_btn_colored_text_material.xml"
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_spinner.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
@@ -56,8 +84,68 @@
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
@@ -68,8 +156,12 @@
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
@@ -80,15 +172,15 @@
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
         "source": "/home/manvi/.android/build-cache/8ff46b50368716396b5dcc4093d47a32da6f4a5a/output/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color/abc_search_url_text.xml"
     }
 ]

@@ -1,11 +1,27 @@
 [
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
@@ -16,7 +32,15 @@
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_default.xml"
     },
     {
@@ -32,8 +56,24 @@
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/manvi/gitRepos/ShushMe/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Shushme/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
