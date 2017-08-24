@@ -866,9 +866,10 @@ int string location_permissions_granted_message 0x7f06003a
 int string need_location_permission_message 0x7f06003b
 int string place_autocomplete_clear_button 0x7f060024
 int string place_autocomplete_search_hint 0x7f060025
+int string privacy 0x7f06003c
 int string search_menu_title 0x7f060026
-int string setting_enabled 0x7f06003c
-int string settings_label 0x7f06003d
+int string setting_enabled 0x7f06003d
+int string settings_label 0x7f06003e
 int string status_bar_notification_info_overflow 0x7f060027
 int style AlertDialog_AppCompat 0x7f08009f
 int style AlertDialog_AppCompat_Light 0x7f0800a0

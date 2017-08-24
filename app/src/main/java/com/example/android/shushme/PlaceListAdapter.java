@@ -23,17 +23,22 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.google.android.gms.location.places.Place;
+import com.google.android.gms.location.places.PlaceBuffer;
+
 public class PlaceListAdapter extends RecyclerView.Adapter<PlaceListAdapter.PlaceViewHolder> {
 
     private Context mContext;
+    private PlaceBuffer mBuffer;
 
     /**
      * Constructor using the context and the db cursor
      *
      * @param context the calling context/activity
      */
-    public PlaceListAdapter(Context context) {
+    public PlaceListAdapter(Context context, PlaceBuffer placeBuffer) {
         this.mContext = context;
+        this.mBuffer = placeBuffer;
     }
 
     /**
@@ -59,7 +64,8 @@ public class PlaceListAdapter extends RecyclerView.Adapter<PlaceListAdapter.Plac
      */
     @Override
     public void onBindViewHolder(PlaceViewHolder holder, int position) {
-
+        holder.nameTextView.setText(mBuffer.get(position).getName().toString());
+        holder.addressTextView.setText(mBuffer.get(position).getAddress().toString());
     }
 
 
@@ -70,7 +76,19 @@ public class PlaceListAdapter extends RecyclerView.Adapter<PlaceListAdapter.Plac
      */
     @Override
     public int getItemCount() {
-        return 0;
+
+        if(mBuffer == null) {
+            return 0;
+        }
+        return mBuffer.getCount();
+    }
+
+
+    public void swapPlaces(PlaceBuffer placeBuffer){
+        mBuffer = placeBuffer;
+        if(mBuffer!=null){
+            this.notifyDataSetChanged();
+        }
     }
 
     /**

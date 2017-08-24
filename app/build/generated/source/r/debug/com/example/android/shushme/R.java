@@ -2442,9 +2442,10 @@ containing a value of this type.
         public static final int need_location_permission_message=0x7f06003b;
         public static final int place_autocomplete_clear_button=0x7f060024;
         public static final int place_autocomplete_search_hint=0x7f060025;
+        public static final int privacy=0x7f06003c;
         public static final int search_menu_title=0x7f060026;
-        public static final int setting_enabled=0x7f06003c;
-        public static final int settings_label=0x7f06003d;
+        public static final int setting_enabled=0x7f06003d;
+        public static final int settings_label=0x7f06003e;
         public static final int status_bar_notification_info_overflow=0x7f060027;
     }
     public static final class style {
