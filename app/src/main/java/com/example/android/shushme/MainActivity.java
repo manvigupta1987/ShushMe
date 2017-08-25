@@ -17,6 +17,7 @@ package com.example.android.shushme;
 */
 
 import android.Manifest;
+import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.ContentValues;
 import android.content.Intent;
@@ -24,7 +25,9 @@ import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
+import android.provider.Settings;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
@@ -164,13 +167,23 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
     @Override
     protected void onResume() {
         super.onResume();
-        CheckBox checkBox = (CheckBox)findViewById(R.id.location_permission_checkbox);
+        CheckBox locationPermissions = (CheckBox)findViewById(R.id.location_permission_checkbox);
+        CheckBox ringerPermissions = (CheckBox)findViewById(R.id.ringer_permissions_checkbox);
         if(ActivityCompat.checkSelfPermission(MainActivity.this, Manifest.permission.ACCESS_FINE_LOCATION)
                     != PackageManager.PERMISSION_GRANTED){
-            checkBox.setChecked(false);
+            locationPermissions.setChecked(false);
         }else {
-            checkBox.setChecked(true);
-            checkBox.setEnabled(false);
+            locationPermissions.setChecked(true);
+            locationPermissions.setEnabled(false);
+        }
+
+        NotificationManager nm = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
+        // Check if the API supports such permission change and check if permission is granted
+        if (android.os.Build.VERSION.SDK_INT >= 24 && !nm.isNotificationPolicyAccessGranted()) {
+            ringerPermissions.setChecked(false);
+        } else {
+            ringerPermissions.setChecked(true);
+            ringerPermissions.setEnabled(false);
         }
 
     }
@@ -223,5 +236,10 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
             refreshPlacesData();
         }
+    }
+
+    public void onRingerPermissionsClicked(View view){
+        Intent intent = new Intent(Settings.ACTION_NOTIFICATION_POLICY_ACCESS_SETTINGS);
+        startActivity(intent);
     }
 }

@@ -417,6 +417,7 @@
     <string name="add_new_location">Add new location</string>
     <string name="api_key">AIzaSyCLMaIsFnm_SlIpXtwTaltSrkEQ7QbjhF4</string>
     <string name="app_name">ShushMe</string>
+    <string name="back_to_normal">Back to normal</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -442,10 +443,13 @@
     <string name="place_autocomplete_clear_button">Clear search</string>
     <string name="place_autocomplete_search_hint">Search</string>
     <string name="privacy">http://www.google.com/policies/privacy</string>
+    <string name="ringer_permissions">Ringer Permissions</string>
     <string name="search_menu_title">Search</string>
     <string name="setting_enabled" translatable="false">EnabledSetting</string>
     <string name="settings_label">Settings</string>
+    <string name="silent_mode_activated">Silent mode activated</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="touch_to_relaunch">Touch to launch the app.</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

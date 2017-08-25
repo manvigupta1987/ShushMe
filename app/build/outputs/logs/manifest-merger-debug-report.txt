@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:2:1-37:12
+ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml
@@ -81,6 +81,10 @@ ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:35:5-66
 MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:35:22-64
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:36:22-77
 uses-sdk
 INJECTED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.1.0] /home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/AndroidManifest.xml:21:5-23:78
