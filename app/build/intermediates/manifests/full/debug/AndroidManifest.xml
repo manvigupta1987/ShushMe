@@ -43,6 +43,8 @@
             android:authorities="com.example.android.shushme"
             android:exported="false" />
 
+        <receiver android:name="com.example.android.shushme.GeofenceBroadcastReceiver" />
+
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

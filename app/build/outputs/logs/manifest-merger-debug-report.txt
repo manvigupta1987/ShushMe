@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:2:1-35:
 		INJECTED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml
 		INJECTED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:5:5-28:19
+ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:5:5-30:19
 MERGED from [com.android.support:appcompat-v7:25.1.0] /home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/manvi/.android/build-cache/9bcbe6fa2a6f5d6dd583a32d47d84eb6822ec087/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/manvi/.android/build-cache/c8a3a6dfe41ffccd6b5b242615aea3c9a29d61e6/output/AndroidManifest.xml:23:5-20
@@ -68,15 +68,19 @@ ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:23:9-26
 		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:26:13-37
 	android:name
 		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:24:13-85
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:31:5-78
+receiver#com.example.android.shushme.GeofenceBroadcastReceiver
+ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:28:9-62
 	android:name
-		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:31:22-76
+		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:28:19-60
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:33:5-78
+	android:name
+		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:33:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:33:5-66
+ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:35:5-66
 MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manvi/.android/build-cache/48d34ca9902873be7f991983b7f37da8433af192/output/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:33:22-64
+		ADDED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml:35:22-64
 uses-sdk
 INJECTED from /home/manvi/gitRepos/ShushMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.1.0] /home/manvi/.android/build-cache/d579068ee5031204657cb3fcc14bc33853fdf5bc/output/AndroidManifest.xml:21:5-23:78

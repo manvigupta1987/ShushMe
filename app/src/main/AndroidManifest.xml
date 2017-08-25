@@ -25,6 +25,8 @@
             android:authorities="com.example.android.shushme"
             android:exported="false"/>
 
+        <receiver android:name=".GeofenceBroadcastReceiver"/>
+
     </application>
 
     <!--Required to know where the device is-->
